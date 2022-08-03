@@ -1,2 +1,4 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Pay for the order
+4. Eat!
